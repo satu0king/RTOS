@@ -1,0 +1,3 @@
+[submodule "RTOS-GroupChat"]
+	path = RTOS-GroupChat
+	url = https://github.com/satu0king/RTOS-GroupChat.git
