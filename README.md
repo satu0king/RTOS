@@ -5,7 +5,7 @@
 
 **Roll Number** - IMT2016008
 
-**EmailID** - satviksunkam.ramaprasad@iiitb.org 
+**Email ID** - satviksunkam.ramaprasad@iiitb.org 
 
 ## Instructions to see submissions - 
 > git submodules are used to represent each individual assignment, so please use the following instructions to clone the repo. 
